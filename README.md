@@ -10,16 +10,14 @@
     - 파이썬 기초 실습 [link](https://colab.research.google.com/drive/1WzSSuVfzmh9E88NgkPyRLyu5jaAXFFWu?usp=sharing)
   - 2일차
     - 복잡도 complexity [link](https://docs.google.com/document/d/1Hr0iYIFOhDpBD69OCKybWxM2QJKSpOPD5Y3DRamwOf8/edit#heading=h.dp5j9jahfbko)
-    - 그리디 greedy [link](https://colab.research.google.com/drive/1OiCdZ2QmXWlhnYOfB5KBa5a4qUokTHFs?usp=sharing)
-    - 구현 implementation [link](https://colab.research.google.com/drive/1PnB4NRZUgM-VdrJXQj_OlaBUKeNOvy2g?usp=sharing)
+    - 그리디 greedy [link](https://colab.research.google.com/drive/1OiCdZ2QmXWlhnYOfB5KBa5a4qUokTHFs?usp=sharing)    
     - 2일차 특강 후기 [link](https://docs.google.com/forms/d/e/1FAIpQLSctsAVgF2WeFiqYq5AMEhJ_i3D1hJoG8MBtHsu5lq7o22XotQ/viewform?usp=sf_link)
   - 3일차
-    - 탐색 search [link]()
-    - 정렬 sorting [link]()
+    - 구현 implementation [link](https://colab.research.google.com/drive/1PnB4NRZUgM-VdrJXQj_OlaBUKeNOvy2g?usp=sharing)
+    - 탐색 search [link](https://colab.research.google.com/drive/1RHLw4bgJzlelPaz1VBkLYn6DSfDJKGFb?usp=sharing)    
     - 3일차 특강 후기 [link](https://docs.google.com/forms/d/e/1FAIpQLSeIoJUNvFeCo0wJ7hxkIHg-RFr6qH-ubHejWUe_pVoaq2dY0A/viewform?usp=sf_link)
   - 4일차
-    - 다이나믹 프로그래밍 dynamic programming [link]()
-    - 복습하기
+    - 정렬 sorting [link](https://colab.research.google.com/drive/1t9DkKQxTpXrgYMqK2U111hgP9wIScCgb?usp=sharing)
     - 사후 설문조사 [link](https://docs.google.com/forms/d/e/1FAIpQLSdbeyLBZmMuyayY62GQHyrtm6Njs_U5dJJLfnt9owE1pZjQQQ/viewform?usp=sf_link)
 
 
@@ -27,7 +25,7 @@
   - 이론 + 실습 + 그룹 스터디
 
 * 특강 기록
-  - (예정) 삼육대학교, 'SW 알고리즘 특강', 2022년 8월 22일(월) ~ 25일(목), 09:00 ~ 12:00
+  - 삼육대학교, 'SW 알고리즘 특강', 2022년 8월 22일(월) ~ 25일(목), 09:00 ~ 12:00
 
 
 * 코딩 테스트 관련 도서 목록
